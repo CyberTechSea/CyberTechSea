@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-label="CyberTechSea — Deep-sea Cyberpunk banner">
+  <defs>
+    <linearGradient id="ds-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#011024"/>
+      <stop offset="50%" stop-color="#02233f"/>
+      <stop offset="100%" stop-color="#00131f"/>
+    </linearGradient>
+    <linearGradient id="ds-cyan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+    <filter id="ds-neon" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="b1"/>
+      <feMerge><feMergeNode in="b1"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="ds-grid" x="0" y="0" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M60 0L0 0L0 60" fill="none" stroke="#22d3ee" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#ds-bg)"/>
+  <rect width="1200" height="320" fill="url(#ds-grid)"/>
+
+  <!-- abstract wave -->
+  <g opacity="0.85" filter="url(#ds-neon)">
+    <path d="M0 220 Q 200 180 400 215 T 800 210 T 1200 200 L 1200 320 L 0 320 Z" fill="#0ea5e9" fill-opacity="0.18"/>
+    <path d="M0 250 Q 200 215 400 245 T 800 240 T 1200 230" stroke="#22d3ee" stroke-width="1.5" fill="none" stroke-opacity="0.55"/>
+    <path d="M0 275 Q 200 245 400 270 T 800 265 T 1200 258" stroke="#6366f1" stroke-width="1" fill="none" stroke-opacity="0.45"/>
+  </g>
+
+  <!-- circuit lines on the right -->
+  <g stroke="#22d3ee" stroke-width="1.2" fill="none" opacity="0.55" filter="url(#ds-neon)">
+    <path d="M880 60 L 940 60 L 940 110 L 1010 110"/>
+    <path d="M1010 110 L 1010 170 L 1110 170"/>
+    <path d="M940 60 L 940 30 L 1080 30"/>
+    <circle cx="940" cy="60" r="3" fill="#22d3ee"/>
+    <circle cx="1010" cy="110" r="3" fill="#22d3ee"/>
+    <circle cx="1110" cy="170" r="4" fill="#6366f1"/>
+  </g>
+
+  <!-- title -->
+  <g font-family="'Inter','Segoe UI',system-ui,sans-serif" filter="url(#ds-neon)">
+    <text x="50" y="120" font-size="64" font-weight="800" fill="url(#ds-cyan)" letter-spacing="-1">CyberTechSea</text>
+    <text x="52" y="155" font-size="16" font-weight="500" fill="#7dd3fc" letter-spacing="3">FRANCESCO  PAOLO  PATTI  ·  ORCID 0000-0002-7975-2947</text>
+  </g>
+
+  <!-- tagline cards -->
+  <g font-family="'Inter','Segoe UI',system-ui,sans-serif">
+    <g transform="translate(50,190)">
+      <rect width="280" height="38" rx="6" fill="#0f172a" stroke="#22d3ee" stroke-opacity="0.5"/>
+      <text x="14" y="25" font-size="13" fill="#a5f3fc" letter-spacing="1">⚓  MARINE BIOLOGIST BY NATURE</text>
+    </g>
+    <g transform="translate(50,236)">
+      <rect width="280" height="38" rx="6" fill="#0f172a" stroke="#6366f1" stroke-opacity="0.5"/>
+      <text x="14" y="25" font-size="13" fill="#c7d2fe" letter-spacing="1">🛡  CISO BY DUTY</text>
+    </g>
+    <g transform="translate(340,213)">
+      <rect width="280" height="38" rx="6" fill="#0f172a" stroke="#a855f7" stroke-opacity="0.5"/>
+      <text x="14" y="25" font-size="13" fill="#e9d5ff" letter-spacing="1">💾  SILICON COLLECTOR BY PASSION</text>
+    </g>
+  </g>
+</svg>

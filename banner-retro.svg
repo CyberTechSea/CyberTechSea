@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-label="CyberTechSea — Retro Terminal banner">
+  <defs>
+    <linearGradient id="rt-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0a0a"/>
+      <stop offset="100%" stop-color="#1a0f02"/>
+    </linearGradient>
+    <pattern id="rt-scan" x="0" y="0" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="#000" opacity="0.35"/>
+    </pattern>
+    <filter id="rt-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="1.4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <radialGradient id="rt-vignette" cx="50%" cy="50%" r="65%">
+      <stop offset="60%" stop-color="#000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0.85"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#rt-bg)"/>
+  <rect width="1200" height="320" fill="url(#rt-scan)"/>
+
+  <!-- prompt -->
+  <g font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" fill="#ffb000" filter="url(#rt-glow)">
+    <text x="40" y="58" font-size="18" opacity="0.85">cybertechsea@szn:~$ whoami</text>
+    <text x="40" y="84" font-size="14" fill="#7a5a1a" opacity="0.9">// initializing identity...</text>
+  </g>
+
+  <!-- ASCII title -->
+  <g font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-weight="700" fill="#ffb000" filter="url(#rt-glow)">
+    <text x="40" y="142" font-size="46" letter-spacing="6">CYBER · TECH · SEA</text>
+    <text x="40" y="180" font-size="16" fill="#d99500" letter-spacing="3" opacity="0.95">FRANCESCO  PAOLO  PATTI  ·  STAZIONE  ZOOLOGICA  ANTON  DOHRN</text>
+  </g>
+
+  <!-- tagline -->
+  <g font-family="ui-monospace, monospace" fill="#ffb000" filter="url(#rt-glow)">
+    <text x="40" y="232" font-size="15" opacity="0.95">&gt; Marine biologist by nature.</text>
+    <text x="40" y="256" font-size="15" opacity="0.95">&gt; CISO by duty.</text>
+    <text x="40" y="280" font-size="15" opacity="0.95">&gt; Silicon collector by passion.<tspan fill="#ffd24a"><animate attributeName="opacity" values="0;1;1;0" dur="1.1s" repeatCount="indefinite"/> █</tspan></text>
+  </g>
+
+  <!-- right-side blinking PETSCII-ish sea wave -->
+  <g font-family="ui-monospace, monospace" fill="#ff8000" opacity="0.55" filter="url(#rt-glow)">
+    <text x="780" y="80" font-size="14">∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿</text>
+    <text x="780" y="100" font-size="14">▒▒▒▒░░░░▒▒▒▒░░░░▒▒</text>
+    <text x="780" y="120" font-size="14">~~~~~~~~~~~~~~~~~~~~</text>
+    <text x="780" y="200" font-size="11" fill="#7a5a1a">[ READY. ]</text>
+    <text x="780" y="222" font-size="11" fill="#7a5a1a">PRINT "HELLO, OCEAN"</text>
+    <text x="780" y="244" font-size="11" fill="#7a5a1a">RUN</text>
+  </g>
+
+  <rect width="1200" height="320" fill="url(#rt-vignette)"/>
+</svg>
