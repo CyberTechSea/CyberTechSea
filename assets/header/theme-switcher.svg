@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 56" role="img" aria-label="Theme selector">
+  <defs>
+    <filter id="ts-shadow"><feDropShadow dx="0" dy="1" stdDeviation="1.2" flood-opacity="0.25"/></filter>
+  </defs>
+  <g font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="14" filter="url(#ts-shadow)">
+    <!-- retro -->
+    <g transform="translate(10,10)">
+      <rect width="200" height="36" rx="18" fill="#1a0f02" stroke="#ffb000" stroke-width="1.5"/>
+      <text x="100" y="23" text-anchor="middle" fill="#ffb000" letter-spacing="2">▶ RETRO TERMINAL</text>
+    </g>
+    <!-- deepsea -->
+    <g transform="translate(225,10)">
+      <rect width="200" height="36" rx="18" fill="#0f172a" stroke="#22d3ee" stroke-width="1.5"/>
+      <text x="100" y="23" text-anchor="middle" fill="#7dd3fc" letter-spacing="2">▶ DEEP-SEA CYBER</text>
+    </g>
+    <!-- museum -->
+    <g transform="translate(440,10)" font-family="'Cormorant Garamond',Georgia,serif" font-size="15">
+      <rect width="200" height="36" rx="18" fill="#f5efe2" stroke="#3b3a35" stroke-width="1.4"/>
+      <text x="100" y="24" text-anchor="middle" fill="#1f1d18" letter-spacing="3" font-style="italic">▸ Museum Heritage</text>
+    </g>
+  </g>
+</svg>

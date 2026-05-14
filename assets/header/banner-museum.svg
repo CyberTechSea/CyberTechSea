@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-label="CyberTechSea — Museum Heritage banner">
+  <defs>
+    <linearGradient id="mu-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f5efe2"/>
+      <stop offset="100%" stop-color="#e8dcc1"/>
+    </linearGradient>
+    <pattern id="mu-dot" x="0" y="0" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="0.9" fill="#8a7d5e" fill-opacity="0.35"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#mu-bg)"/>
+  <rect width="1200" height="320" fill="url(#mu-dot)"/>
+
+  <!-- museum frame -->
+  <g stroke="#3b3a35" fill="none" stroke-width="1.4">
+    <rect x="24" y="24" width="1152" height="272"/>
+    <rect x="34" y="34" width="1132" height="252" stroke-width="0.6"/>
+  </g>
+
+  <!-- title -->
+  <g font-family="'Cormorant Garamond','EB Garamond',Georgia,'Times New Roman',serif" fill="#1f1d18">
+    <text x="60" y="120" font-size="76" font-weight="700" letter-spacing="-1">CyberTechSea</text>
+    <line x1="60" y1="138" x2="540" y2="138" stroke="#8a7d5e" stroke-width="1"/>
+    <text x="60" y="170" font-size="17" font-style="italic" fill="#4a463a">Francesco Paolo Patti — A Digital Cabinet of Curiosities</text>
+  </g>
+
+  <!-- three pillars -->
+  <g font-family="'Cormorant Garamond',Georgia,serif" fill="#1f1d18">
+    <g transform="translate(60,210)">
+      <text font-size="13" letter-spacing="6" fill="#8a7d5e">·  I  ·</text>
+      <text y="26" font-size="22" font-weight="600">Cyber</text>
+      <text y="50" font-size="13" font-style="italic" fill="#4a463a">CISO &amp; Digital Transition</text>
+    </g>
+    <g transform="translate(290,210)">
+      <text font-size="13" letter-spacing="6" fill="#8a7d5e">·  II  ·</text>
+      <text y="26" font-size="22" font-weight="600">Tech</text>
+      <text y="50" font-size="13" font-style="italic" fill="#4a463a">Scientific software &amp; pipelines</text>
+    </g>
+    <g transform="translate(520,210)">
+      <text font-size="13" letter-spacing="6" fill="#8a7d5e">·  III  ·</text>
+      <text y="26" font-size="22" font-weight="600">Sea</text>
+      <text y="50" font-size="13" font-style="italic" fill="#4a463a">Marine biology &amp; molecular taxonomy</text>
+    </g>
+  </g>
+
+  <!-- right ornament: shell + circuit + wave glyphs -->
+  <g transform="translate(950,90)" fill="none" stroke="#3b3a35" stroke-width="1.3">
+    <!-- shell -->
+    <path d="M0 60 Q 30 0 70 30 Q 100 50 80 90 Q 50 120 10 100 Q -10 80 0 60 Z"/>
+    <path d="M15 70 Q 40 50 60 70" stroke-opacity="0.5"/>
+    <path d="M20 85 Q 45 70 65 85" stroke-opacity="0.5"/>
+    <!-- circuit -->
+    <path d="M110 30 L 160 30 L 160 70 L 200 70" />
+    <circle cx="160" cy="30" r="2.5" fill="#3b3a35"/>
+    <circle cx="160" cy="70" r="2.5" fill="#3b3a35"/>
+    <circle cx="200" cy="70" r="2.5" fill="#3b3a35"/>
+    <!-- wave -->
+    <path d="M110 110 Q 130 95 150 110 T 190 110 T 230 110" />
+  </g>
+</svg>
