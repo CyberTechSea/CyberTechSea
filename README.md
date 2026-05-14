@@ -222,7 +222,7 @@ These are not citations of convenience. They are the line of inheritance.
 <!-- ===== FROM THE VAULT — rotate freely ===== -->
 ### 🗝️ This Month from the Vault
 
-> *Edit this block whenever you want to feature a new piece from the collection.*
+> *This block will be edited to feature a new piece from my collection.*
 
 <table>
 <tr>
