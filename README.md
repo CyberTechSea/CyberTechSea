@@ -222,7 +222,7 @@ These are not citations of convenience. They are the line of inheritance.
 <!-- ===== FROM THE VAULT — rotate freely ===== -->
 ### 🗝️ This Month from the Vault
 
-> *This block will be edited to feature a new piece from my collection.*
+> *Edit this block whenever you want to feature a new piece from the collection.*
 
 <table>
 <tr>
@@ -361,7 +361,7 @@ _Live list unavailable at build time — see all releases under [ORCID 0000-0002
 
 
 
-<sub>🔄 Dynamic block last refreshed: 2026-05-14 08:45 UTC</sub>
+<sub>🔄 Dynamic block last refreshed: 2026-05-15 07:33 UTC</sub>
 
 <!-- END_DYNAMIC_BLOCK -->
 
