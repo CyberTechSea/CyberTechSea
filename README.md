@@ -344,9 +344,9 @@ A tribute to where the machines came from, by someone who still owns them.
 <!-- BEGIN_DYNAMIC_BLOCK -->
 <!-- This block is auto-generated. Edits will be overwritten. -->
 
-### 📺 Latest from YouTube
+### 📺 Latest from YouTube — [@CyberTechSea](https://youtube.com/@cybertechsea)
 
-_Latest videos unavailable at build time — visit the channel: [@CyberTechSea](https://youtube.com/@cybertechsea)_
+<table><tr><td align='center' width='33%'><a href='https://www.youtube.com/watch?v=gXB8wNPpUfY'><img src='https://i4.ytimg.com/vi/gXB8wNPpUfY/hqdefault.jpg' width='220' alt='La Notte dei Ricercatori 2024 - Ischia'/></a><br/><sub><b>La Notte dei Ricercatori 2024 - Ischia</b><br/><i>2025-09-08</i></sub></td><td align='center' width='33%'><a href='https://www.youtube.com/watch?v=rVHkei8hSEM'><img src='https://i3.ytimg.com/vi/rVHkei8hSEM/hqdefault.jpg' width='220' alt='Unboxing Lotto Repro Giochi per Amiga'/></a><br/><sub><b>Unboxing Lotto Repro Giochi per Amiga</b><br/><i>2025-09-05</i></sub></td></tr></table>
 
 
 ### 🧪 Latest Zenodo releases
@@ -361,7 +361,7 @@ _Live list unavailable at build time — see all releases under [ORCID 0000-0002
 
 
 
-<sub>🔄 Dynamic block last refreshed: 2026-05-17 06:51 UTC</sub>
+<sub>🔄 Dynamic block last refreshed: 2026-05-18 08:15 UTC</sub>
 
 <!-- END_DYNAMIC_BLOCK -->
 
