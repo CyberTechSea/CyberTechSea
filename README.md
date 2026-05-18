@@ -249,7 +249,7 @@ These are not citations of convenience. They are the line of inheritance.
 
 <table>
 <tr>
-<td align="center" width="25%"><img src="assets/photos/stakar-1994.jpg" width="160" onerror="this.style.display='none'"/><br/><sub>Stakar 486 · 1994(coming soon)</sub></td>
+<td align="center" width="25%"><img src="assets/photos/SinclairZX80.jpg" width="160" onerror="this.style.display='none'"/><br/><sub>Sinclair ZX80 · 1979</sub></td>
 <td align="center" width="25%"><img src="assets/photos/pet2001.jpg" width="160" onerror="this.style.display='none'"/><br/><sub>Commodore PET 2001· 1977</sub></td>
 <td align="center" width="25%"><img src="assets/photos/amiga-1200.jpg" width="160" onerror="this.style.display='none'"/><br/><sub>Amiga 1200 · 1992(coming soon)</sub></td>
 <td align="center" width="25%"><img src="assets/photos/ibm5155.jpg" width="160" onerror="this.style.display='none'"/><br/><sub>IBM 5155 Portable Personal Computer · 1984</sub></td>
@@ -361,7 +361,7 @@ _Live list unavailable at build time — see all releases under [ORCID 0000-0002
 
 
 
-<sub>🔄 Dynamic block last refreshed: 2026-05-18 10:43 UTC</sub>
+<sub>🔄 Dynamic block last refreshed: 2026-05-18 10:45 UTC</sub>
 
 <!-- END_DYNAMIC_BLOCK -->
 
