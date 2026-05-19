@@ -237,7 +237,7 @@ These are not citations of convenience. They are the line of inheritance.
 
 **Why it matters:** *(edit me)* — a couple of lines about the machine, what it meant at the time, what it means to me now.
 
-**Bridge to today:** *(edit me)* — what modern script or pipeline in this account echoes what this machine could (or could not) do.
+<!-- **Bridge to today:** *(edit me)* — what modern script or pipeline in this account echoes what this machine could (or could not) do. -->
 
 </td>
 </tr>
