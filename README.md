@@ -233,9 +233,9 @@ These are not citations of convenience. They are the line of inheritance.
 </td>
 <td width="60%" valign="top">
 
-<!**Featured piece:** ** — e.g. *Tandy 1000 EX*, 1987.>
+**Featured piece:** —  *Tandy 1000 EX*, 1987.
 
-<!**Why it matters:** ** — The Tandy 1000EX was marketed as a competitor to IBM's PCjr. The EX was a compact computer that had the keyboard and 5.25" floppy drive built into the computer casing, accessible on the right-hand side. This computer has a dedicated XT-IDE card with 640 KB of RAM and a CompactFlash card with DOS 5.00.>
+**Why it matters:** — The Tandy 1000EX was marketed as a competitor to IBM's PCjr. The EX was a compact computer that had the keyboard and 5.25" floppy drive built into the computer casing, accessible on the right-hand side. This computer has a dedicated XT-IDE card with 640 KB of RAM and a CompactFlash card with DOS 5.00.
 
 **<!**Bridge to today:** *(edit me)* — what modern script or pipeline in this account echoes what this machine could (or could not) do.>**
 
