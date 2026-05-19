@@ -233,11 +233,11 @@ These are not citations of convenience. They are the line of inheritance.
 </td>
 <td width="60%" valign="top">
 
-**Featured piece:** *(edit me)* — e.g. *Commodore PET 2001*, 1977.
+<!**Featured piece:** *(edit me)* — e.g. *Commodore PET 2001*, 1977.>
 
-**Why it matters:** *(edit me)* — a couple of lines about the machine, what it meant at the time, what it means to me now.
+<!**Why it matters:** *(edit me)* — a couple of lines about the machine, what it meant at the time, what it means to me now.>
 
-**Bridge to today:** *(edit me)* — what modern script or pipeline in this account echoes what this machine could (or could not) do.
+<!**Bridge to today:** *(edit me)* — what modern script or pipeline in this account echoes what this machine could (or could not) do.>
 
 </td>
 </tr>
