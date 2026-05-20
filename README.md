@@ -222,22 +222,22 @@ These are not citations of convenience. They are the line of inheritance.
 <!-- ===== FROM THE VAULT — rotate freely ===== -->
 ### 🗝️ This Month from the Vault
 
-<!-- *Edit this block whenever you want to feature a new piece from the collection.* -->
+> *Edit this block whenever you want to feature a new piece from the collection.*
 
 <table>
 <tr>
 <td width="40%" align="center">
-<img src="assets/photos/Tandy1000EX.jpg" alt="From the Vault — placeholder" width="320" onerror="this.style.display='none'"/>
+<img src="assets/photos/vault-feature.jpg" alt="From the Vault — placeholder" width="320" onerror="this.style.display='none'"/>
 <br/>
-<sub><i>Tandy 1000 EX</i></sub>
+<sub><i>Photo coming soon.</i></sub>
 </td>
 <td width="60%" valign="top">
 
-**Featured piece:** — *Tandy 1000 EX*, 1987.
+**Featured piece:** *(edit me)* — e.g. *Commodore PET 2001*, 1977.
 
-**Why it matters:** — The Tandy 1000EX was marketed as a competitor to IBM's PCjr. The EX was a compact computer that had the keyboard and 5.25" floppy drive built into the computer casing accessible on the right-hand side. This computer has a dedicated XT-IDE card with 640 KB of RAM and a CompactFlash card with DOS 5.00.
+**Why it matters:** *(edit me)* — a couple of lines about the machine, what it meant at the time, what it means to me now.
 
-<!-- **Bridge to today:** *(edit me)* — what modern script or pipeline in this account echoes what this machine could (or could not) do. -->
+**Bridge to today:** *(edit me)* — what modern script or pipeline in this account echoes what this machine could (or could not) do.
 
 </td>
 </tr>
@@ -361,7 +361,7 @@ _Live list unavailable at build time — see all releases under [ORCID 0000-0002
 
 
 
-<sub>🔄 Dynamic block last refreshed: 2026-05-19 10:35 UTC</sub>
+<sub>🔄 Dynamic block last refreshed: 2026-05-20 07:55 UTC</sub>
 
 <!-- END_DYNAMIC_BLOCK -->
 
