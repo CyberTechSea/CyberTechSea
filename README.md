@@ -361,7 +361,7 @@ _Live list unavailable at build time — see all releases under [ORCID 0000-0002
 
 
 
-<sub>🔄 Dynamic block last refreshed: 2026-06-17 09:12 UTC</sub>
+<sub>🔄 Dynamic block last refreshed: 2026-06-18 08:55 UTC</sub>
 
 <!-- END_DYNAMIC_BLOCK -->
 
