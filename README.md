@@ -351,7 +351,7 @@ A tribute to where the machines came from, by someone who still owns them.
 
 ### 🧪 Latest Zenodo releases
 
-_Live list unavailable at build time — see all releases under [ORCID 0000-0002-7975-2947](https://orcid.org/0000-0002-7975-2947)_
+- **[S.O.N.A.R.  Surface & OSINT Network Assessment + Remediation](https://doi.org/10.5281/zenodo.20743593)** — v– · 2026-06-18 · `10.5281/zenodo.20743593`
 
 
 ### 📊 GitHub at a glance
@@ -361,7 +361,7 @@ _Live list unavailable at build time — see all releases under [ORCID 0000-0002
 
 
 
-<sub>🔄 Dynamic block last refreshed: 2026-06-18 08:55 UTC</sub>
+<sub>🔄 Dynamic block last refreshed: 2026-06-19 09:15 UTC</sub>
 
 <!-- END_DYNAMIC_BLOCK -->
 
