@@ -351,8 +351,9 @@ A tribute to where the machines came from, by someone who still owns them.
 
 ### 🧪 Latest Zenodo releases
 
+- **[BOLD–INSDC record-level overlap by taxonomic class (BOLD Public Data Package 30-Jun-2026)](https://doi.org/10.5281/zenodo.22181406)** — v– · 2026-08-30 · `10.5281/zenodo.22181406`
+- **[BOLDprovenance: record-level census of BOLD–INSDC repository overlap](https://doi.org/10.5281/zenodo.22178811)** — vv1.0.1 · 2026-08-30 · `10.5281/zenodo.22178811`
 - **[Archivio — un ecosistema aperto per catalogare e mettere in dialogo collezioni scientifiche e patrimonio librario digitalizzato](https://doi.org/10.5281/zenodo.21283130)** — v1.0.0 · 2026-07-09 · `10.5281/zenodo.21283130`
-- **[S.O.N.A.R.  Surface & OSINT Network Assessment + Remediation](https://doi.org/10.5281/zenodo.20743593)** — v– · 2026-06-18 · `10.5281/zenodo.20743593`
 
 
 ### 📊 GitHub at a glance
@@ -362,7 +363,7 @@ A tribute to where the machines came from, by someone who still owns them.
 
 
 
-<sub>🔄 Dynamic block last refreshed: 2026-08-30 09:56 UTC</sub>
+<sub>🔄 Dynamic block last refreshed: 2026-08-31 10:50 UTC</sub>
 
 <!-- END_DYNAMIC_BLOCK -->
 
