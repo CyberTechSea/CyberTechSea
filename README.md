@@ -211,6 +211,7 @@ quality gates, including weak-matcher checks.
 
 `nuclei` · `YAML` · `EOL detection` · `NIS2`
 
+---
 
 <!--
   Section: 04 - Tech Heritage
