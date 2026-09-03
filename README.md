@@ -199,20 +199,6 @@ A modern, all-in-one Python suite for **geometric morphometric analysis** of mar
 
 ---
 
-## 🛰️ Open Source Contributions
-
-**[`drupal-eol`](https://github.com/projectdiscovery/nuclei-templates/pull/16659)** — merged into **nuclei-templates** (ProjectDiscovery · 12.8k ★) · Aug 2026
-
-Detection template for **End-of-Life Drupal installations** (7/8/9) — versions that no
-longer receive security updates. The `eol/` directory already covered 14 technologies;
-Drupal was missing. Designed to avoid false positives: it only flags conclusively
-unsupported branches and stays silent when the version is ambiguous. Passed all project
-quality gates, including weak-matcher checks.
-
-`nuclei` · `YAML` · `EOL detection` · `NIS2`
-
----
-
 <!--
   Section: 04 - Tech Heritage
   The vintage computers vault. Around 300 pieces from the 1970s-1990s.
@@ -377,7 +363,7 @@ A tribute to where the machines came from, by someone who still owns them.
 
 
 
-<sub>🔄 Dynamic block last refreshed: 2026-09-02 08:46 UTC</sub>
+<sub>🔄 Dynamic block last refreshed: 2026-09-03 08:55 UTC</sub>
 
 <!-- END_DYNAMIC_BLOCK -->
 
