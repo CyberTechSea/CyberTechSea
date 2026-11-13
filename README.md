@@ -363,7 +363,7 @@ A tribute to where the machines came from, by someone who still owns them.
 
 
 
-<sub>🔄 Dynamic block last refreshed: 2026-11-12 12:40 UTC</sub>
+<sub>🔄 Dynamic block last refreshed: 2026-11-13 12:10 UTC</sub>
 
 <!-- END_DYNAMIC_BLOCK -->
 
